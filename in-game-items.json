@@ -1,5 +1,64 @@
 {
 	"inGameItems": [
-		
+		{
+			"id": 0,
+			"name": "soul-of-eternity",
+			"displayName": "Soul of Eternity",
+			"craftingStation": "crucible-of-the-cosmos",
+			"ingredients": [[1, 1]],
+			"quantityMade": 1,
+			"acquisition": "",
+			"wikiLink": "https://fargosmods.wiki.gg/wiki/Soul_of_Eternity"
+		},
+		{
+			"id": 1,
+			"name": "soul-of-the-universe",
+			"displayName": "Soul of the Universe",
+			"craftingStation": "crucible-of-the-cosmos",
+			"ingredients": [[2, 1]],
+			"quantityMade": 1,
+			"acquisition": "",
+			"wikiLink": "https://fargosmods.wiki.gg/wiki/Soul_of_Eternity"
+		},
+		{
+			"id": 2,
+			"name": "universe-core",
+			"displayName": "Universe Core",
+			"craftingStation": "crucible-of-the-cosmos",
+			"ingredients": [3, 1]],
+			"quantityMade": 1,
+			"acquisition": "",
+			"wikiLink": "https://fargosmods.wiki.gg/wiki/Soul_of_Eternity"
+		},
+		{
+			"id": 3,
+			"name": "eridanus",
+			"displayName": "Eridanus, Champion of the Cosmos",
+			"craftingStation": "",
+			"ingredients": [[4, 1]],
+			"quantityMade": 1,
+			"acquisition": "",
+			"wikiLink": "https://fargosmods.wiki.gg/wiki/Soul_of_Eternity"
+		},
+		{
+			"id": 4,
+			"name": "sigil-of-champions",
+			"displayName": "Sigil of Champions",
+			"craftingStation": "",
+			"ingredients": [[4, 1]],
+			"quantityMade": 1,
+			"acquisition": "",
+			"wikiLink": "https://fargosmods.wiki.gg/wiki/Soul_of_Eternity"
+		},
+		{
+			"id": 5,
+			"name": "acorn",
+			"displayName": "acorn",
+			"craftingStation": "",
+			"ingredients": [[4, 1]],
+			"quantityMade": 1,
+			"acquisition": "",
+			"wikiLink": "https://fargosmods.wiki.gg/wiki/Soul_of_Eternity"
+		}
 	]
 }
